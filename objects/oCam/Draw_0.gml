@@ -1,0 +1,8 @@
+draw_sprite(BG,0,0,0)
+//draw_sprite(sWASD,tutImg,0-5,41)
+draw_sprite(sOverlay,0,0,0)
+draw_set_font(fLevel)
+draw_set_color(make_color_rgb(199,240,216))
+//draw_text(2,-4,level)
+draw_set_color(c_white)
+//draw_text(10,10,string(win) + "/" + string(instance_number(oWinPath)))
